@@ -4,32 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ad203b5-bdcc-4ba9-8f00-dfce9c650a11" name="Changes" comment="" />
+    <list default="true" id="0d85fd2a-5f69-4e10-8085-58fd72fdb197" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
+  "associatedIndex": 3
 }]]></component>
-  <component name="ProjectId" id="2mIsgiiYhTfIwiO5Bmg0O91REGI" />
+  <component name="ProjectId" id="2mpig2mA7OZvl2K4UUB1kzoXd3l" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Leitura.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.outroLoop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/CEEP/Downloads/projeto1Java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Ceep/Downloads/projetoJava/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -44,12 +52,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3ad203b5-bdcc-4ba9-8f00-dfce9c650a11" name="Changes" comment="" />
-      <created>1726775542852</created>
+      <changelist id="0d85fd2a-5f69-4e10-8085-58fd72fdb197" name="Changes" comment="" />
+      <created>1727780026231</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1726775542852</updated>
-      <workItem from="1726775543858" duration="2423000" />
+      <updated>1727780026231</updated>
+      <workItem from="1727780027311" duration="3351000" />
     </task>
     <servers />
   </component>
